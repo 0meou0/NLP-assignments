@@ -1,0 +1,16 @@
+1.summarize the reason of overfitting and underfitting. put them in github reposiyory.
+过拟合原因：
+① 噪声数据
+② 模型太复杂
+③ 数据量太少
+欠拟合原因：
+① 数据量少
+②模型过于简单
+
+2.writing down three sceneries that machine learning has been used now.
+① 垃圾邮件过滤
+② 股票预测
+③ 广告精准投放
+
+3.come out with three new sceneries with which machine learning may be applied.
+① 病情诊断
